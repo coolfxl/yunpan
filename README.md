@@ -10,15 +10,15 @@
 
 分享功能截图
 
-![分享功能](https://github.com/coolfxl/yunpan/blob/master/pictures/share.jpg)
+![分享功能](https://github.com/coolfxl/yunpan/blob/master/pictures/share.png)
 
 重命名功能截图
 
-![重命名功能](https://github.com/coolfxl/yunpan/blob/master/pictures/rename.jpg)
+![重命名功能](https://github.com/coolfxl/yunpan/blob/master/pictures/rename.png)
 
 删除功能截图
 
-![删除功能](https://github.com/coolfxl/yunpan/blob/master/pictures/delete.jpg)
+![删除功能](https://github.com/coolfxl/yunpan/blob/master/pictures/delete.png)
 
 移动到功能截图
-![移动到功能](https://github.com/coolfxl/yunpan/blob/master/pictures/move.jpg)
+![移动到功能](https://github.com/coolfxl/yunpan/blob/master/pictures/move.png)
